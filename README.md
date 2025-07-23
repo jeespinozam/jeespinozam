@@ -15,16 +15,10 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgeespinoza&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=jorgeespinoza&theme=dark"/>
-</p>
-
----
-
 ## 🌎 Connect
 
 📧 jorgee1409@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/jorge-espinoza-mu%C3%B1oz-804a63102/)
+
+---
+*Always learning. Always building. Always improving.*
