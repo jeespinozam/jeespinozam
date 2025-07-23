@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jorge Espinoza Muñoz
+# 👋 Hi, I’m Jorge Espinoza
 
 ### 💻 Tech Leader | DevOps Engineer | Full-Stack Developer
 
