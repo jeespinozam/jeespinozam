@@ -10,11 +10,9 @@ C2 English, results-driven, and passionate about clean architecture and team gro
 
 ## 🧑‍💼 About Me
 
-🎓 BSc in Informatics Engineering – PUCP (Top 4 of class)  
+🎓 BSc in Informatics Engineering – PUCP
 🌎 Based in Lima, Peru | Remote-first professional  
-👨‍💻 Tech Leader at Stepping Stones | Part-Time DevOps at TGG Accounting  
-📚 Published researcher in HCI & ML  
-🏆 Finalist – TuApp 2017 (Colombia)
+📚 Published researcher in HCI & ML
 
 ---
 
